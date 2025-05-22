@@ -32,8 +32,8 @@ pip install openai ttkbootstrap
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/hochiri-chatbot.git
-    cd hochiri-chatbot
+    git clone https://github.com/BrawlsMons/OpenRouter-Ai-Assistante.git
+    cd OpenRouter-Ai-Assistante
     ```
 
 2. **Insert your OpenRouter API key:**
